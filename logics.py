@@ -124,7 +124,7 @@ def can_move(mas):
                 return True
     return False   
 
-
+"""Check to commit""""
 
 
 
